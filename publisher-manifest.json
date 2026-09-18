@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "1f27fbe3d0625ce5c24ea218",
+  "owner": "qkdt9ecd6c",
+  "repo": "page-0c92c157914a388d76778f89",
+  "title": "免费clash订阅",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0c92c157914a388d76778f89",
+      "a": "ARK",
+      "b": "免费clash订阅",
+      "entity": "ARK",
+      "brand": "免费clash订阅",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "bbdf0bc5ecd79592a9c338dcf658f02cdf56f35fbf7d951dc06af8d4dbab6409",
+      "content": {
+        "primary_entity": "ARK",
+        "keyword1": "ARK",
+        "keyword2": "免费clash订阅",
+        "content": {
+          "AI_CLIENTS_INTRO": "在手机、电脑或路由器上导入 ARK 订阅，按系统选择对应客户端即可。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "选好套餐后，在对应设备导入订阅地址即可开始使用。",
+          "AI_CLOSING_TITLE": "开始使用 ARK",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比提供简洁实际的说明，帮助不同设备数量的用户找到合适的 ARK 方案。",
+          "AI_FEATURES_INTRO": "从套餐流量、设备数量和订阅周期三个方面了解 ARK 的配置方式。",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，支持 3 台设备同时在线，适合入门体验。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量，支持 5 台设备，含 IPLC 专线游戏加速优化。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量，支持 20 台设备，含 VIP 专属高带宽节点。",
+          "AI_FEATURE_TITLE_1": "流量阶梯",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "选服务、看适配、配订阅，三步完成 ARK 的日常使用准备。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "ARK 提供基础版、旗舰版和团队版三档套餐，覆盖 100GB 到 1000GB 流量与 3 到 20 台设备的不同需求，可按月或按年订阅。",
+          "AI_HERO_SUBTITLE": "多档套餐，按需选择设备数",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版支持 5 台设备在线",
+          "AI_HIGHLIGHT_3": "团队版含 VIP 高带宽节点",
+          "AI_PLANS_INTRO": "基础版适合 1 到 3 台设备，旗舰版覆盖 5 台设备与游戏加速，团队版面向 20 台设备与定制路由。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量和每月流量需求，在基础版、旗舰版或团队版中选定一个方案。",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的设备数量与客户端类型，查看对应系统的适配说明。",
+          "AI_STEP_TEXT_3": "依照所用客户端的文档，将 ARK 订阅地址导入并完成节点配置。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "ARK 多设备加速方案",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。按年付分别 ¥150、¥350、¥850，日常使用旗舰版比较均衡。",
+          "AI_FAQ_ANSWER_2": "先确认常用设备数量和每月大概流量，再对比套餐的设备数与流量额度。旗舰版支持 5 台设备，适合手机加电脑同时在线。",
+          "AI_FAQ_ANSWER_3": "按年付只需要支付十个月的费用，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。适合长期稳定使用的场景。",
+          "AI_FAQ_ANSWER_4": "按设备选择客户端：桌面端和移动端分别有对应的客户端程序，具体适配情况以客户端文档说明为准，配置订阅后即可使用。",
+          "AI_FAQ_ANSWER_5": "旗舰版和团队版提供优先或专属支持渠道，团队版还有专属客户经理。基础版可提交工单获取帮助。",
+          "AI_FAQ_INTRO": "套餐差异、订阅周期与设备适配。",
+          "AI_FAQ_QUESTION_1": "不同套餐的流量和设备数有什么区别？",
+          "AI_FAQ_QUESTION_2": "如何选择适合自己设备的套餐？",
+          "AI_FAQ_QUESTION_3": "按年付比按月付划算多少？",
+          "AI_FAQ_QUESTION_4": "订阅后怎么在设备上配置？",
+          "AI_FAQ_QUESTION_5": "支持哪些方式获取售后帮助？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "f9a465af6a6903ecd6f88d414cdc7cdfda491f1365185c694ab739a82845fcbc",
+    "sitemap.xml": "15372e41759c8b329547971db34bd5e1a6063bb5f94ca51ab1eac9a95cc7d79c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "cc0b429e04045368d8c391a052f78f0d8bda148d1fe935433d4b68c8915c8a06"
+}
